@@ -131,8 +131,8 @@ A full-stack web application for a coffee shop to manage products and customer i
 
 | Role | Company | Duration | Certificate |
 |------|---------|----------|-------------|
-| **MERN Stack Intern** | VCET | May 2025 – Jun 2025 | [📄 View Certificate](file:///C:/Users/AZHAGU%20MEENA%20G/OneDrive/Desktop/Meena_certifictes/VCET%20Intern.pdf) |
-| **Full Stack Development Intern** | CodeBind Technologies | Nov 2024 – Dec 2024 | [📄 View Certificate](file:///C:/Users/AZHAGU%20MEENA%20G/OneDrive/Desktop/Meena_certifictes/code%20bind%20intern%20certificate.pdf) |
+| **MERN Stack Intern** | VCET | May 2025 – Jun 2025 | [📄 View Certificate](PASTE-VCET-CERTIFICATE-LINK) |
+| **Full Stack Development Intern** | CodeBind Technologies | Nov 2024 – Dec 2024 | [📄 View Certificate](PASTE-CODEBIND-CERTIFICATE-LINK) |
 
 **MERN Stack Intern, VCET:** Contributed to the Exam Cell Management System, covering frontend development, API integration, and database functionality for student data, course registration, and result processing.
 
