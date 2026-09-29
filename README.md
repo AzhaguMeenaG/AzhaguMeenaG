@@ -88,7 +88,7 @@ Patients often have several related conditions at once, but most models predict 
 - Clinical dashboard for viewing results
 
 **Tech:** `Python` `PyTorch` `GNN` `FastAPI` `React` `SHAP` `LIME` `SQLite`
-🔗 [View Repository](https://github.com/AzhaguMeenaG/REPO-NAME)
+🔗 [View Repository](https://github.com/AzhaguMeenaG/multidisease-prediction)
 
 ---
 
@@ -102,7 +102,7 @@ A web application that simplifies student and examination data management for an
 - Department and semester management
 
 **Tech:** `React.js` `Flask` `Python` `SQLite / MongoDB` `REST API`
-🔗 [View Repository](https://github.com/AzhaguMeenaG/REPO-NAME)
+🔗 [View Repository](https://github.com/AzhaguMeenaG/Exam-cell-automation-system)
 
 ---
 
@@ -115,7 +115,7 @@ A React app that lets users enter their details and instantly generate a profess
 - PDF export and a fully responsive interface
 
 **Tech:** `React.js` `TypeScript` `Vite` `Tailwind CSS`
-🔗 [View Repository](https://github.com/AzhaguMeenaG/REPO-NAME)
+🔗 [View Repository](https://github.com/AzhaguMeenaG/personal_portfolio_generator)
 
 ---
 
@@ -123,16 +123,16 @@ A React app that lets users enter their details and instantly generate a profess
 A full-stack web application for a coffee shop to manage products and customer interactions, built during my internship at CodeBind Technologies.
 
 **Tech:** `HTML` `CSS` `JavaScript` `PHP` `MySQL`
-🔗 [View Repository](https://github.com/AzhaguMeenaG/REPO-NAME)
+🔗 [View Repository](https://github.com/AzhaguMeenaG/Coffee-bite)
 
 ---
 
 ## 💼 Experience
 
-| Role | Company | Duration |
-|------|---------|----------|
-| **MERN Stack Intern** | VCET | May 2025 – Jun 2025 |
-| **Full Stack Development Intern** | CodeBind Technologies | Nov 2024 – Dec 2024 |
+| Role | Company | Duration | Certificate |
+|------|---------|----------|-------------|
+| **MERN Stack Intern** | VCET | May 2025 – Jun 2025 | [📄 View Certificate](PASTE-VCET-CERTIFICATE-LINK) |
+| **Full Stack Development Intern** | CodeBind Technologies | Nov 2024 – Dec 2024 | [📄 View Certificate](PASTE-CODEBIND-CERTIFICATE-LINK) |
 
 **MERN Stack Intern, VCET:** Contributed to the Exam Cell Management System, covering frontend development, API integration, and database functionality for student data, course registration, and result processing.
 
