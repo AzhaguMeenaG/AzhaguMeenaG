@@ -145,8 +145,8 @@ A full-stack web application for a coffee shop to manage products and customer i
 | Qualification | Institution | Year | Score |
 |---------------|-------------|------|-------|
 | **B.E. CSE** | Velammal College of Engineering and Technology | 2023 – 2027 | CGPA: 8.39 / 10 |
-| **HSC ** | Lakshmi Matriculation Higher Secondary School | 2022-2023 | 89.7 % |
-| **SSLC ** |  Lakshmi Matriculation Higher Secondary School | 2020-2021 | 90 % |
+| **HSC** | Lakshmi Matriculation Higher Secondary School | 2022-2023 | 89.7 % |
+| **SSLC** |  Lakshmi Matriculation Higher Secondary School | 2020-2021 | 90 % |
 
 ---
 
