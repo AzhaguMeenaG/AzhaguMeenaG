@@ -144,7 +144,7 @@ A full-stack web application for a coffee shop to manage products and customer i
 
 | Degree | Institution | Year | CGPA |
 |--------|-------------|------|------|
-| **B.E. / B.Tech in Computer Science Engineering** | YOUR COLLEGE NAME | 20XX – 20XX | X.XX / 10 |
+| **B.E. / B.Tech in Computer Science Engineering** | Velammal College of Engineering and Technology | 2023 – 2027 | 8.39 / 10 |
 
 ## 📜 Certifications
 
@@ -171,7 +171,7 @@ I'm looking for **internship and entry-level software development opportunities*
 <p align="center">
   <a href="https://www.linkedin.com/in/azhagu-meena-g-65b2b2308">LinkedIn</a> •
   <a href="https://github.com/AzhaguMeenaG">GitHub</a>
-  <a href="mailto:azhagumeenag@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:azhagumeenag@gmail.com"></a>
 </p>
 
 <p align="center"><i>"Learning, building, and improving one project at a time."</i></p>
