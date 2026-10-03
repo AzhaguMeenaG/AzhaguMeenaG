@@ -142,9 +142,13 @@ A full-stack web application for a coffee shop to manage products and customer i
 
 ## 🎓 Education
 
-| Degree | Institution | Year | CGPA |
-|--------|-------------|------|------|
-| **B.E. / B.Tech in Computer Science Engineering** | Velammal College of Engineering and Technology | 2023 – 2027 | 8.39 / 10 |
+| Qualification | Institution | Year | Score |
+|---------------|-------------|------|-------|
+| **B.E. CSE** | Velammal College of Engineering and Technology | 2023 – 2027 | CGPA: 8.39 / 10 |
+| **HSC ** | Lakshmi Matriculation Higher Secondary School | 2022-2023 | 89.7 % |
+| **SSLC ** |  Lakshmi Matriculation Higher Secondary School | 2020-2021 | 90 % |
+
+---
 
 ## 📜 Certifications
 
@@ -170,7 +174,7 @@ I'm looking for **internship and entry-level software development opportunities*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/azhagu-meena-g-65b2b2308">LinkedIn</a> •
-  <a href="https://github.com/AzhaguMeenaG">GitHub</a>
+  <a href="https://github.com/AzhaguMeenaG">GitHub</a> •
   <a href="mailto:azhagumeenag@gmail.com">email</a>
 </p>
 
